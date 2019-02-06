@@ -8,3 +8,4 @@ T = [
 ];
 
 [w, b] = perceptron_learning_in_naive_format(T, 1);
+[w2, b2] = perceptron_learning_in_dual_format(T, 1);
