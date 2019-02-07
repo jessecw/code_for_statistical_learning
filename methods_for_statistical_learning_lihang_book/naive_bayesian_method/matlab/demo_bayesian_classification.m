@@ -21,3 +21,4 @@ T = [
 x = [2 1];
 
 c_x = naive_bayesian_classification(T, x);
+c_x_2 = bayesian_classification(T, x, 1.0);
